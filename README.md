@@ -5,6 +5,7 @@ Put a file "in.txt" in the same directory
 compile and run
 
 A file called "out.sublime-macro" will appear
+
 Feel free to rename it
 
 Move that file to
